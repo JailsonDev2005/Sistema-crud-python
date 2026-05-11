@@ -45,6 +45,4 @@ Interface terminal com Rich
 Este projeto foi criado com o objetivo de praticar lógica de programação e fundamentos do Python através da construção de um sistema CRUD simples no terminal.
 
 
-👨‍💻 Autor - Jailson santos da silva
-
-Desenvolvido por você 🚀
+Desenvolvido por Jailson santos da silva
